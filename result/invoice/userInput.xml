@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<userInput>
+	<user>
+		<name>Shrinath Mishra</name>
+		<phoneNumber>+91-7574885947</phoneNumber>
+	</user>
+	<user>
+		<name>Rohit Sharma</name>
+		<phoneNumber>+91-9997774545</phoneNumber>
+	</user>
+	<user>
+		<name>Virat Kohli</name>
+		<phoneNumber>+91-9997771818</phoneNumber>
+	</user>
+	<user>
+		<name>MS Dhoni</name>
+		<phoneNumber>+91-9997770707</phoneNumber>
+	</user>
+	<user>
+		<name>Sachin Tendulkar</name>
+		<phoneNumber>+91-9997771010</phoneNumber>
+	</user>
+	
+</userInput>
