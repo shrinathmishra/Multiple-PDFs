@@ -1,0 +1,11 @@
+1 Start Time: 2023-09-14 12:44:10.542
+ End Time: 2023-09-14 12:44:11.966
+ Elapsed Time (ms): 1424
+
+2 Start Time: 2023-09-14 12:44:11.973
+ End Time: 2023-09-14 12:44:12.693
+ Elapsed Time (ms): 720
+
+
+
+Total Elapsed Time (ms): 2144
