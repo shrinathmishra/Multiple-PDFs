@@ -1,0 +1,46 @@
+1 Start Time: 2023-09-14 12:50:49.270
+ End Time: 2023-09-14 12:50:50.617
+ Elapsed Time (ms): 1347
+
+2 Start Time: 2023-09-14 12:50:50.626
+ End Time: 2023-09-14 12:50:51.343
+ Elapsed Time (ms): 717
+
+3 Start Time: 2023-09-14 12:50:51.343
+ End Time: 2023-09-14 12:50:52.015
+ Elapsed Time (ms): 672
+
+4 Start Time: 2023-09-14 12:50:52.015
+ End Time: 2023-09-14 12:50:52.709
+ Elapsed Time (ms): 694
+
+5 Start Time: 2023-09-14 12:50:52.709
+ End Time: 2023-09-14 12:50:53.365
+ Elapsed Time (ms): 656
+
+
+
+Total Elapsed Time (ms): 4086
+1 Start Time: 2023-09-14 12:54:08.125
+ End Time: 2023-09-14 12:54:09.597
+ Elapsed Time (ms): 1472
+
+2 Start Time: 2023-09-14 12:54:09.610
+ End Time: 2023-09-14 12:54:10.377
+ Elapsed Time (ms): 767
+
+3 Start Time: 2023-09-14 12:54:10.378
+ End Time: 2023-09-14 12:54:11.152
+ Elapsed Time (ms): 774
+
+4 Start Time: 2023-09-14 12:54:11.153
+ End Time: 2023-09-14 12:54:11.930
+ Elapsed Time (ms): 777
+
+5 Start Time: 2023-09-14 12:54:11.930
+ End Time: 2023-09-14 12:54:12.915
+ Elapsed Time (ms): 985
+
+
+
+Total Elapsed Time (ms): 4775
