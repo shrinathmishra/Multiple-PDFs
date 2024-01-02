@@ -1,0 +1,30 @@
+1 Start Time: 2023-09-21 16:24:59.428
+ End Time: 2023-09-21 16:25:01.097
+ Elapsed Time (ms): 1669
+
+2 Start Time: 2023-09-21 16:25:01.111
+ End Time: 2023-09-21 16:25:01.883
+ Elapsed Time (ms): 772
+
+3 Start Time: 2023-09-21 16:25:01.883
+ End Time: 2023-09-21 16:25:02.597
+ Elapsed Time (ms): 714
+
+
+
+Total Elapsed Time (ms): 3155
+1 Start Time: 2023-09-22 10:52:50.228
+ End Time: 2023-09-22 10:52:51.432
+ Elapsed Time (ms): 1204
+
+2 Start Time: 2023-09-22 10:52:51.436
+ End Time: 2023-09-22 10:52:52.130
+ Elapsed Time (ms): 694
+
+3 Start Time: 2023-09-22 10:52:52.130
+ End Time: 2023-09-22 10:52:52.816
+ Elapsed Time (ms): 686
+
+
+
+Total Elapsed Time (ms): 2584
