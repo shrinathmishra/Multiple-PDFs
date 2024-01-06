@@ -1,0 +1,40 @@
+1 Start Time: 2023-09-27 13:15:09.947
+ End Time: 2023-09-27 13:15:11.061
+ Elapsed Time (ms): 1114
+
+2 Start Time: 2023-09-27 13:15:11.061
+ End Time: 2023-09-27 13:15:11.920
+ Elapsed Time (ms): 859
+
+3 Start Time: 2023-09-27 13:15:11.924
+ End Time: 2023-09-27 13:15:12.758
+ Elapsed Time (ms): 834
+
+4 Start Time: 2023-09-27 13:15:12.758
+ End Time: 2023-09-27 13:15:13.609
+ Elapsed Time (ms): 851
+
+5 Start Time: 2023-09-27 13:15:13.610
+ End Time: 2023-09-27 13:15:14.419
+ Elapsed Time (ms): 809
+
+6 Start Time: 2023-09-27 13:15:14.419
+ End Time: 2023-09-27 13:15:15.239
+ Elapsed Time (ms): 820
+
+7 Start Time: 2023-09-27 13:15:15.239
+ End Time: 2023-09-27 13:15:16.099
+ Elapsed Time (ms): 860
+
+8 Start Time: 2023-09-27 13:15:16.099
+ End Time: 2023-09-27 13:15:16.922
+ Elapsed Time (ms): 823
+
+9 Start Time: 2023-09-27 13:15:16.922
+ End Time: 2023-09-27 13:15:17.732
+ Elapsed Time (ms): 810
+
+10 Start Time: 2023-09-27 13:15:17.732
+ End Time: 2023-09-27 13:15:18.561
+ Elapsed Time (ms): 829
+
